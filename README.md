@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarav Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3R4djEzaHk5N2ZBeUJfSC1yWHh3LW80bjZvd3xBQ3Jtc0ttX2VETjFYdlFiWDhxenlVVzEtX3RuRlZmcHpCa1dObDRFQVVLTUZCWWVhM0c3UEhYeWdEdzZEV1RQUUVhRnRvWFdZZEk5Z212U2t5YVB3UnQzaW1qeTlFMFdZV0RaRXhRNkltUWNCNWk1ZERnNHduSQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3R4djEzaHk5N2ZBeUJfSC1yWHh3LW80bjZvd3xBQ3Jtc0ttX2VETjFYdlFiWDhxenlVVzEtX3RuRlZmcHpCa1dObDRFQVVLTUZCWWVhM0c3UEhYeWdEdzZEV1RQUUVhRnRvWFdZZEk5Z212U2t5YVB3UnQzaW1qeTlFMFdZV0RaRXhRNkltUWNCNWk1ZERnNHduSQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravshah2907" alt="aaravshah2907" /></a> </p>
 
 - 🔭 I’m currently working on [My Code](https://github.com/Aaravshah2907/My_code)
