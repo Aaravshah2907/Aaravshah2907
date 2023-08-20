@@ -1,5 +1,3 @@
-
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblRicWNkQUtxSXQ2aFJrMDFaNWFfblhiSS1Yd3xBQ3Jtc0ttdlJYbHdCTHBTNFpPSUE3VTBRb0xnek5GbEVVUV9DaV81bDh3Q1B4dUdPLUdPY0NtcDJUMFZJaTJSZVBmdUk3UjRERFEzZl9KRko5akFXRnV1LU4zNDZaSDZWVDhhejViRlNxRWloazdDakdSbmZ4cw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aarav Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3R4djEzaHk5N2ZBeUJfSC1yWHh3LW80bjZvd3xBQ3Jtc0ttX2VETjFYdlFiWDhxenlVVzEtX3RuRlZmcHpCa1dObDRFQVVLTUZCWWVhM0c3UEhYeWdEdzZEV1RQUUVhRnRvWFdZZEk5Z212U2t5YVB3UnQzaW1qeTlFMFdZV0RaRXhRNkltUWNCNWk1ZERnNHduSQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)">
