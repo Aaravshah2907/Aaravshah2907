@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aaravshah0011@gmail.com**
 
-- 📄 Know about my experiences [https://aaravshah2907.github.io/Portfolio/](https://aaravshah2907.github.io/Portfolio/)
+- 📄 Know about my experiences [My Experience](https://aaravshah2907.github.io/Aarav-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
