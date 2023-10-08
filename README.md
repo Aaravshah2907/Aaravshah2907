@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://aaravshah2907.github.io/Portfolio/](https://aaravshah2907.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Potfolio](https://aaravshah2907.github.io/Aarav-Portfolio/)
 
 - 📫 How to reach me **aaravshah0011@gmail.com**
 
