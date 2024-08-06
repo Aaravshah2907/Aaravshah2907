@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravshah2907" alt="aaravshah2907" /></a> </p>
 
-- 🔭 I’m currently working on [My Code](https://github.com/Aaravshah2907/My_code) and [My Leetcode](https://github.com/Aaravshah2907/Leetcode)
+- 🔭 I’m currently working on [My Code](https://github.com/Aaravshah2907/My_code), [My Leetcode](https://github.com/Aaravshah2907/Leetcode) and [Code Forces](https://github.com/Aaravshah2907/CodeForces)
 
 - 🌱 I’m currently learning **Python**
 
